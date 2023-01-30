@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  TimeStamp.cpp
+     Creating library D:\TimeCapture\Release\TimeCapture.lib and object D:\TimeCapture\Release\TimeCapture.exp
+  Generating code
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TimeCapture.vcxproj -> D:\TimeCapture\Release\TimeCapture.dll
